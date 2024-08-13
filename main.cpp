@@ -10,6 +10,7 @@
 
 #define UNITY_BUILD 1
 #include <stdio.h>              // IWYU pragma: keep
+#include <iostream>
 #ifdef _WIN64
  #include <SDL.h>
  #include <SDL_image.h>
